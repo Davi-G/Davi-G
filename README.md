@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Minishell](https://github.com/Davi-G/42-minishell)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Davi-G?tab=repositories](https://github.com/Davi-G?tab=repositories)
 
